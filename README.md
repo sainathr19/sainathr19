@@ -3,4 +3,4 @@
 
 - I’m currently working on [Myntra clone](https://github.com/sainathr19/myntra-clone)
 
-- All of my projects are available at ([sainath.online](https://sainathr19.vercel.app/))
+- All of my projects are available at ([portfolio](https://sainathr19.vercel.app/))
